@@ -1,5 +1,4 @@
-# snowwdot.Ai
-snowwdot is an automation industry<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
